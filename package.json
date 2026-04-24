@@ -1,0 +1,11 @@
+{
+  "name": "fleet-test-repo",
+  "version": "0.0.1",
+  "private": true,
+  "description": "Dummy target repo for Fleet Phase 1B walking-skeleton tests.",
+  "type": "module",
+  "scripts": {
+    "test": "node --test",
+    "lint": "node -e \"console.log('lint ok')\""
+  }
+}
